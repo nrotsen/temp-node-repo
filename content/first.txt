@@ -1,1 +1,1 @@
-Hello this ist the first text file
+Hello this is the first text file
